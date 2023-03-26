@@ -15,8 +15,8 @@ Model training data
 
 test.csv : 
 
-Forecast data 
+prediction data 
 
 sample_submission.csv : 
 
-Forecast output
+prediction output
